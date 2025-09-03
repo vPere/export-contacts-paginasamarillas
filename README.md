@@ -66,6 +66,4 @@ exports/telefonos_inmobiliarias_valencia.xlsx
 * Educational purposes only.
 * Scraping depends on the target site’s **ToS**.
 * If Páginas Amarillas changes its structure, the scraper may need updates.
-
-```
-```
+* THERE IS ALSO A .exe EXECUTABLE IN THE v1.0.0 RELEASE SO YOU DON'T NEED TO INSTALL PYTHON OR CALL IT FROM TERMINAL

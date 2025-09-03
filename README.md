@@ -1,4 +1,4 @@
-# 📒 Extractor de Telèfons — Páginas Amarillas  
+# 📒 Páginas Amarillas Contact Extractor
 
 A simple **Flask web app** that extracts company names and phone numbers from [Páginas Amarillas](https://www.paginasamarillas.es/), displays them in a table, and exports them as an **Excel file**.  
 

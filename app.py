@@ -80,7 +80,7 @@ def scrape_page(sector: str, provincia: str, pagina: int):
     response = requests.get(url, headers=HEADERS, timeout=30)
     html = response.text
 
-    m = re.search(r'PAOL\.mapaPois\.addPois\s*\(\s*(\[.*?])\s*\);', html, re.S)
+    m = re.search(r'PAOL\.mapaPois\.addPois\s*\(\s*(\[.*?\])\s*\);', html, re.S)
     if not m:
         return []
 
